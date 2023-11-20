@@ -1,0 +1,6 @@
+{
+  "branch-filter": [
+    "eb/*"
+  ],
+  "target-repository": "rhubner/ci-test"
+}
