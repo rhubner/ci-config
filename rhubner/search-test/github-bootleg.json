@@ -1,6 +1,7 @@
 {
   "branch-filter": [
-    "eb/*"
+    "eb/.*",
+    ".*"
   ],
-  "target-repository": "rhubner/ci-test"
+  "target-repository": "https://github.com/rhubner/ci-test.git"
 }
